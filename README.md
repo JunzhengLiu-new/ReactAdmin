@@ -1,0 +1,2 @@
+# ReactAdmin
+Background management application
